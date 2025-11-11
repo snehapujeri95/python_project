@@ -1,1 +1,1 @@
-# python_project
+This mini project demonstrates how to use Pandas, Numpy, and Matplotib to perform data analysis on a sales dataset. It covers data cleaning, manipulation, and visualization techniques_ideal for beginners learning data analysis in python.
